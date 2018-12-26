@@ -1,0 +1,5 @@
+---
+applications: 
+- name: ele-world   
+  buildpack: python_buildpack
+  memory: 512M
